@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Red Shirt",
+            "quantity": 2,
+            "sku": 38094374,
+            "unitPrice" : 24.0
+        },
+        {
+            "id": 2,
+            "name": "Blue Shirt",
+            "quantity": 1,
+            "sku": 38094375,
+            "unitPrice" : 24.0
+        },
+        {
+            "id": 3,
+            "name": "Blue Socks",
+            "quantity": 4,
+            "sku": 38094321,
+            "unitPrice" : 12.0
+        }
+    ]
+  }
